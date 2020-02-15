@@ -1,0 +1,11 @@
+<meta>
+<!-- this resource was developed in ~2017 -->
+    <info name ="User Interface" author="Konders" version="1.0.0" />
+    <script src="settings.lua" type="client" cache="false"/>
+    <script src="class/Notification.lua" type="shared" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <!-- <script src="server.lua" type="server"/> -->
+
+    <file src="assets/font.ttf"/>
+    <file src="assets/sound.mp3"/>
+</meta>
